@@ -1,0 +1,7 @@
+{
+  "name": "FormIDS",
+  "short_name": "FormIDS",
+  "description": "V2.0 Ejemplo Form IDS",
+  "start_url": "/",
+  "display": "standalone"
+}
